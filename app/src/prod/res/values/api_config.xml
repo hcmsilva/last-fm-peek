@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PLEASE KEEP USING TLS ENDPOINTS AS API KEY IS SENT AS A QUERY PARAM -->
+    <string name="last_fm_base_endpoint">https://ws.audioscrobbler.com/2.0/</string>
+</resources>
