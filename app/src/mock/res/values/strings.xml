@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Mock</string>
+    <string name="matching_albums">Album Mock Matches</string>
+    <string name="search_str">Enter Mock text</string>
+    <string name="search_big_str">Please Search for a Mock</string>
+    <string name="loading_str">Loading... Mocks</string>
+    <string name="powered_by_str">powered by MockFm</string>
+</resources>
