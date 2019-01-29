@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_text_top">40dp</dimen>
+    <dimen name="holder_width">295dp</dimen>
+    <dimen name="holder_height">400dp</dimen>
+    <dimen name="recycler_view_item_margin">35dp</dimen>
+    <dimen name="cover_height">260dp</dimen>
+    <dimen name="cover_width">260dp</dimen>
+</resources>
