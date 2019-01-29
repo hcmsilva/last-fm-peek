@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LastFm Peek</string>
+    <string name="checkout_str">Play</string>
 </resources>

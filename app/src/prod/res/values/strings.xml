@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Peek</string>
+    <string name="matching_albums">Album Matches</string>
+    <string name="search_str">Enter Artist or Album</string>
+    <string name="search_big_str">Please Search for an Artist or Album</string>
+    <string name="loading_str">Loading...</string>
+    <string name="powered_by_str">powered by LastFm</string>
+</resources>
